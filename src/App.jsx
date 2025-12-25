@@ -5,17 +5,22 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
+// function App() {
+//   return (
+//     <div className="bg-black text-white min-h-screen">
+//       <Hero />
+//       <About />
+//       <Skills />
+//       <Projects />
+//       <Contact />
+//       <Footer />
+//     </div>
+//   )
+// }
+
+// export default App
 function App() {
-  return (
-    <div className="bg-black text-white min-h-screen">
-      <Hero />
-      <About />
-      <Skills />
-      <Projects />
-      <Contact />
-      <Footer />
-    </div>
-  )
+  return <h1>Hello World</h1>
 }
 
 export default App
