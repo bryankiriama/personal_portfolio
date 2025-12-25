@@ -5,6 +5,15 @@ import Projects from './components/Projects'
 import Contact from './components/Contact'
 import Footer from './components/Footer'
 
+function App() {
+  return <h1>Hello World</h1>
+}
+
+export default App
+
+
+
+
 // function App() {
 //   return (
 //     <div className="bg-black text-white min-h-screen">
@@ -19,8 +28,4 @@ import Footer from './components/Footer'
 // }
 
 // export default App
-function App() {
-  return <h1>Hello World</h1>
-}
 
-export default App
