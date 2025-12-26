@@ -14,18 +14,18 @@ export default App
 
 
 
-function App() {
-  return (
-    <div className="bg-black text-white min-h-screen">
-      <Hero />
-//       <About />
-//       <Skills />
-//       <Projects />
-//       <Contact />
-//       <Footer />
-//     </div>
-  )
-}
+// function App() {
+//   return (
+//     <div className="bg-black text-white min-h-screen">
+//       <Hero />
+// //       <About />
+// //       <Skills />
+// //       <Projects />
+// //       <Contact />
+// //       <Footer />
+// //     </div>
+//   )
+// }
 
-export default App
+// export default App
 
