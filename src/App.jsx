@@ -14,10 +14,10 @@ export default App
 
 
 
-// function App() {
-//   return (
-//     <div className="bg-black text-white min-h-screen">
-//       <Hero />
+function App() {
+  return (
+    <div className="bg-black text-white min-h-screen">
+      <Hero />
 //       <About />
 //       <Skills />
 //       <Projects />
